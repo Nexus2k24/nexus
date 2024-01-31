@@ -9,10 +9,12 @@
 }
 
 .h{
-    color: violet;
+    color: #fff;
     font-family: sans-serif;
     font-size: 50px;
     font-weight: 700;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: aqua;
 }
 
 .p{
@@ -26,10 +28,6 @@
     border-radius: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
-}
-
-.h{
-    font-family: "sans-serif";
 }
 
 .list {
@@ -80,10 +78,10 @@
 
 .faculties-p{
     font-family: "sans-serif";
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 200;
     text-align: center;
-    color: antiquewhite;
+    color: #fff;
 }
 
 .button {
