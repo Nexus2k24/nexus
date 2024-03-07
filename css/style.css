@@ -99,7 +99,7 @@
 .table{
     border-width: 1px;
     border-color: #000000;
-    padding: 10px;
+    padding: 2px;
 }
 
 .contactus-image{
@@ -280,7 +280,7 @@
     border-radius: 200px;
 height: 200px;
 margin: 20px;
-margin-left: 300px;
+margin-left: 200px;
 box-shadow: 10px 10px 10px #f57171
 }
 
